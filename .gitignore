@@ -1,0 +1,23 @@
+# Python bestanden en folders
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuele omgeving
+.venv/
+
+# Omgevingsvariabelen
+.env
+
+# Editor instellingen
+.vscode/
+*.code-workspace
+
+# Log- en cachebestanden
+*.log
+*.sqlite3
+*.db
+
+# Systeem specifieke bestanden
+.DS_Store
+Thumbs.db
