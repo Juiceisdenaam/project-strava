@@ -21,3 +21,6 @@ __pycache__/
 # Systeem specifieke bestanden
 .DS_Store
 Thumbs.db
+
+# Output/results
+output/
